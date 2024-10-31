@@ -8,7 +8,7 @@
 
 <div align="center">
 
-Console for Mobile Browsers.
+Console for Mobile Browsers, now for Manifest V3.
 
 [![NPM version][npm-image]][npm-url]
 [![Build status][ci-image]][ci-url]
